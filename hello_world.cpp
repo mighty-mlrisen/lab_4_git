@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
 
-int
-main()
+int main()
 {
   // nombre del usuario
   std::string name;
