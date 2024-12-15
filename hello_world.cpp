@@ -4,13 +4,13 @@
 int
 main()
 {
-  // user's name variable
+  // nombre del usuario
   std::string name;
-  // request for name user
+  // solicitud del nombre del usuario
   std::cout << "Enter your name:" << std::endl;
-  // input name !
+  // entrada del nombre
   std::cin >> name;
-  // output !!!!
+  // salida
   std::cout << "Hello world from " << name << std::endl;
   return 0;
 }
