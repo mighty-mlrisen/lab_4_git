@@ -10,7 +10,7 @@ main()
   std::cout << "Enter your name:" << std::endl;
   // input name
   std::cin >> name;
-  // output
+  // output !!!!
   std::cout << "Hello world from " << name << std::endl;
   return 0;
 }
